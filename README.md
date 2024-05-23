@@ -3,5 +3,5 @@ Fake Typer Tool in Python .gg/hindustani
 
 
 
-![image](https://github.com/ReXx4SuRe/Fake-Typer/assets/161481850/085d6cab-0f1e-4fde-8b83-067fade864c1)
+![image](https://github.com/ReXx4SuRe/Fake-Typer/assets/161481850/4f3693ad-302f-4d2d-a578-600880ab6339)
 # Enjoy !!
